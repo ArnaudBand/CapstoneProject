@@ -16,12 +16,13 @@ The project composes of the mobile version of my personal portfolio.  The flexbo
 
 # Getting Started
 
-- Prerequisites
-- Linter’s HTML and CSS
-- Node js install 
-- Linters for JavaScript
+## Prerequisites
 
-# Authors
+## Linters HTML, CSS and JavaScript
+## Node js install 
+
+
+# Author
 
 ## 👨 Author1
 
