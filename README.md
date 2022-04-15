@@ -5,7 +5,7 @@ The project composes of the mobile version of my personal portfolio.  The flexbo
 
 # Live
 
-[live Demo](https://b77748.github.io/Capstone_Project/)
+[live Demo](https://b77748.github.io/CapstoneProject/)
 
 # Built With
 
@@ -42,9 +42,12 @@ Give a ⭐️ if you like this project!
 
 # Acknowledgments
 
+This is cloned as common creative license 
+[Cindy Template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 Hat tip to anyone whose code was used
 Inspiration
 etc
+
 
 
