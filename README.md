@@ -7,12 +7,14 @@ The project composes of the mobile version of my personal portfolio.  The flexbo
 
 [live Demo](https://b77748.github.io/CapstoneProject/)
 
+[Video Live](https://www.loom.com/share/2027c8ff6d004a92ac964451d001f625)
+
 # Built With
 
 -	HTML
 -	CSS
 - Javascript
--	Linters
+- Linters
 
 # Getting Started
 
