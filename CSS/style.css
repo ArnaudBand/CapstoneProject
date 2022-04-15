@@ -90,10 +90,15 @@
   margin: 4rem 0 1.5rem 0;
   font-size: 3rem;
   color: rgba(240, 3, 3, 0.664);
+  text-align: center;
 }
 
 .menu_text {
-  margin: 30px;
+  margin: 30px 100px;
+}
+
+.menu_paragraph {
+  background-color: #fff;
 }
 
 .menu_paragraph p {
@@ -109,6 +114,7 @@
   font-weight: 600;
   margin-bottom: 1rem;
   padding: 2rem;
+  text-align: center;
 }
 
 .date_menu span {
@@ -224,14 +230,40 @@
   transform: translate(-50%, -50%);
 }
 
+/* style Sponsor section */
+
+.sponsor {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(94, 94, 94);
+}
+
+.sponsor_title {
+  text-align: center;
+  color: rgb(66, 66, 66);
+  padding: 20px 0;
+}
+
+.flex_sponsor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.sponsor_text {
+  width: 200px;
+}
+
 /* footer's styles */
 
 .footer_home {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 10px 30px;
-  background-color: rgb(94, 94, 94);
 }
 
 .footer_img {
@@ -250,7 +282,7 @@
 }
 
 .footer_text p {
-  color: #fff;
+  color: #000;
 }
 
 @media only screen and (max-width: 768px) {
@@ -466,7 +498,6 @@
     justify-content: center;
     align-items: center;
     padding: 10px 30px;
-    background-color: rgb(94, 94, 94);
   }
 
   .footer_img {
@@ -484,6 +515,6 @@
   }
 
   .footer_text p {
-    color: #fff;
+    color: #000;
   }
 }
