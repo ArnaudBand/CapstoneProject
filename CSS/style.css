@@ -491,6 +491,12 @@
     transform: translate(-50%, -50%);
   }
 
+  /* Sponsors style's */
+
+  .sponsor_text {
+    width: 100px;
+  }
+
   /* footer's styles */
 
   .footer_home {
